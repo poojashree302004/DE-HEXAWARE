@@ -2,7 +2,7 @@ trigger:
 - none  # Manual trigger
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'loandata'
 
 variables:
   DATABRICKS_HOST: $(DATABRICKS_HOST)   # Secret variable
