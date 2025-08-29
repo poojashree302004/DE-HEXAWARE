@@ -7,3 +7,9 @@ coding challenges,
 python,
 Spark SQL,
 Pyspark,
+Apache Airflow
+Azure databricks,
+Azure data factories,
+Azure data lake storage,
+Azure devops,
+2 projects
